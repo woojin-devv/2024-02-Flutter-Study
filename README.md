@@ -9,7 +9,7 @@
 
 ## 🤝 스터디 소개
 
-- [GDSC Sookmyung Flutter Study Notion](https://orange-whale-5b0.notion.site/1-Flutter-5333f8d7bfe649d8809e6d8ce0f9bc7f)
+- [GDSC Sookmyung Flutter Study Notion](https://orange-whale-5b0.notion.site/1-Flutter-9cf96f00353040c5bdac95dfbb67c2d1?pvs=4)
 - (티스토리 링크 추가 필요)
 
 ### 커리큘럼
