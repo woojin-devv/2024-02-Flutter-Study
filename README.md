@@ -5,12 +5,11 @@
 ## 👩‍💻 스터디원
 
 - Core: 전시원
-- Member: 
+- Member: 안예빈, 제유진, 최우진, 홍서현, 홍정인
 
 ## 🤝 스터디 소개
 
 - [GDG on Campus Sookmyung Flutter Study Notion](https://orange-whale-5b0.notion.site/1-Flutter-9cf96f00353040c5bdac95dfbb67c2d1?pvs=4)
-- (티스토리 링크 추가 필요)
 
 ### 커리큘럼
 
