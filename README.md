@@ -20,7 +20,7 @@
 | 3주차 | Flutter 간단하게 살펴보기               | <ul><li>- [x] </li></ul> |
 | 4주차 | UI 구성해보기              | <ul><li>- [x] </li></ul> |
 | 5주차 | Widget State 이해하기   | <ul><li>- [x] </li></ul> |
-| 6주차 | 뽀모도로 앱 만들어보기              | <ul><li>- [ ] </li></ul> |
+| 6주차 | 뽀모도로 앱 만들어보기              | <ul><li>- [x] </li></ul> |
 | 7주차 | Data Fetch 이해하기              | <ul><li>- [ ] </li></ul> |
 | 8주차 | FutureBuilder와 ListView 이해하기              | <ul><li>- [ ] </li></ul> |
 | 9주차 | api 활용해보기              | <ul><li>- [ ] </li></ul> |
